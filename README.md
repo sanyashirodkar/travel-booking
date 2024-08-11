@@ -10,7 +10,3 @@ Package Name: com.assignment1.travelbookingChoose Jar in Packaging and Java 21 (
 
 Click "GENERATE", download and extract the zip file. Open the project folder in the IDE.
 
-Based on the dependence of classes, implement them in this following order:  
-
-After running the Spring application, interact with it by using REST requests. The following are examples of requests in CMD (note. commands in PowerShell are different).
-
