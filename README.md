@@ -6,7 +6,8 @@ First go to the Spring Initializr to download a Spring project template. Choose 
 Group: com.assignment1,
 Artifact: travel-booking,
 Name: travel-booking,
-Package Name: com.assignment1.travelbookingChoose Jar in Packaging and Java 21 (don't use other java version). In Dependencies, add Web, JPA and H2.
+Package Name: com.assignment1.travelbooking. 
+Choose Jar in Packaging and Java 21 (don't use other java version). In Dependencies, add Web, JPA and H2.
 
 Click "GENERATE", download and extract the zip file. Open the project folder in the IDE.
 
